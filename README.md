@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate developer with a keen interest in AI, data structures, and algorithms</h3>
 
-- 🔭 I’m currently working on [Face Recognition Attendance System 🏫📸](https://github.com/2721aryan/Attendance-Management-system-using-face-recognition)
+- 🔭 I’m currently working on [Movie Recommendation. 🏫📸](https://github.com/2721aryan/Movie-Recommendation)
 
 - 📫 How to reach me **2721aryankumarsingh@gmail.com**
 
