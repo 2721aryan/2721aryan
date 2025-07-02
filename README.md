@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate developer with a keen interest in AI, data structures, and algorithms</h3>
 
-- 🔭 I’m currently working on [Movie Recommendation. 🏫📸](https://github.com/2721aryan/Movie-Recommendation)
+- 🔭 I’m currently working on [ChatBot](https://github.com/2721aryan/ChatBot)
 
 - 📫 How to reach me **2721aryankumarsingh@gmail.com**
 
